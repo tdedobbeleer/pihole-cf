@@ -1,4 +1,4 @@
-FROM pihole/pihole:latest
+FROM pihole/pihole:beta-v5.0-armhf
 
 #Install cloudflared
 #https://docs.pi-hole.net/guides/dns-over-https/
